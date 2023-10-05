@@ -1,4 +1,3 @@
-
 # IT-Career
 Welcome to my IT Career repository! Here, I document my journey into the exciting world of Information Technology, coding, and ethical hacking. This repository serves as a comprehensive collection of my learning resources, projects, and achievements.
 
@@ -21,8 +20,8 @@ I'm on a quest to master a variety of programming languages. Here are the langua
 
 # Languages I am going to focus on for IT
 ### Python
-  * Widely used in cybersecurity for scripting and automation.
-  * Used in penetration testing tools and security frameworks.
+* Widely used in cybersecurity for scripting and automation.
+* Used in penetration testing tools and security frameworks.
 ### Bash Scripting
 * Essential for working with Linux systems.
 * Important for writing custom scripts for automation.
@@ -42,6 +41,7 @@ I've already delved into a few languages, including:
 * Some Ruby (Learning Repo: [Ruby-and-Python](https://github.com/OfficialJavaScript/Ruby-and-Python))
 
 # Certifications I want to work towards
+#### Take extreme caution clicking any of these links, I have attempted to source all links from exact websites, you will be leaving [GitHub](https://github.com/), so stay safe out there.
 ### [CompTIA Security+](https://www.comptia.org/certifications/security)
 * A foundational certification covering basic security concepts.
 * Widely recognized in the industry.
