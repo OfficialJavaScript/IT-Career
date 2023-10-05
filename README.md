@@ -42,27 +42,26 @@ I've already delved into a few languages, including:
 * Some Ruby (Learning Repo: [Ruby-and-Python](https://github.com/OfficialJavaScript/Ruby-and-Python))
 
 # Certifications I want to work towards
-### CompTIA Security+
+### [CompTIA Security+](https://www.comptia.org/certifications/security)
 * A foundational certification covering basic security concepts.
 * Widely recognized in the industry.
-### CEH (Certified Ethical Hacker)
+### [CEH (Certified Ethical Hacker)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 * Focuses on ethical hacking and penetration testing.
 * Provides hands-on skills for identifying and fixing vulnerabilities.
-### OSCP (Offensive Security Certified Professional)
+### [OSCP (Offensive Security Certified Professional)](https://www.offsec.com/courses/pen-200/)
 * An advanced certification focusing on practical, hands-on penetration testing.
 * Highly regarded in the cybersecurity community.
-### CISSP (Certified Information Systems Security Professional)
+### [CISSP (Certified Information Systems Security Professional)](https://www.isc2.org/certifications/cissp)
 * Focuses on a broad range of cybersecurity topics, including risk management and security policies.
 * Often sought for more senior roles.
-### GIAC Certifications (e.g., GSEC, GPEN, GWAPT)
-* Offered by SANS Institute, these certifications cover various aspects of cybersecurity, including general security, penetration testing, and web application security.
-### Cisco CCNA (Cisco Certified Network Associate)
-* Provides a solid foundation in networking, which is crucial for cybersecurity.
-* Helpful for roles involving network security.
-### CISSP (Certified Information Systems Security Professional)
 * A widely recognized certification for information security professionals.
 * Covers various domains, including security and risk management, asset security, and more.
-### ISACA Certifications (e.g., CISM, CISA)
+### [GIAC Certifications (e.g., GSEC, GPEN, GWAPT)](https://www.giac.org/certification/web-application-penetration-tester-gwapt)
+* Offered by SANS Institute, these certifications cover various aspects of cybersecurity, including general security, penetration testing, and web application security.
+### [Cisco CCNA (Cisco Certified Network Associate)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+* Provides a solid foundation in networking, which is crucial for cybersecurity.
+* Helpful for roles involving network security.
+[### ISACA Certifications (e.g., CISM, CISA)](https://www.isaca.org/credentialing/certifications)
 * Certifications offered by ISACA focus on information systems governance, risk management, and audit.
 
 # Current Projects
