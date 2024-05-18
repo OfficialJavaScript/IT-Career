@@ -1,6 +1,6 @@
 # Learning EP 1
 
-All learning from 
+All learning from https://www.youtube.com/watch?v=9eH16Fxeb9o
 
 First command I learned for when you have your switch first running is to use 'enable' a little # will appear, for example:
 
