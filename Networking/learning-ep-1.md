@@ -4,7 +4,7 @@ All learning from https://www.youtube.com/watch?v=9eH16Fxeb9o
 
 Today (18/05/2024) - Today I learned and issued my first Cisco CLI command.
 
-### Commands
+## Commands
 
 First command I learned for when you have your switch first running is to use 'enable' a little # will appear, for example:
 
@@ -41,7 +41,7 @@ Vlan    Mac Address       Type        Ports
    1    00e0.b059.0a97    DYNAMIC     Fa0/1
 ```
 
-### Layers:
+## Layers:
 
 Layer 1 (Physical Layer): This layer deals with the physical aspects of network communication, including the hardware used for transmitting and receiving data. It includes connectors, cables, switches, and hubs. The primary focus is on bit-level transmission between network nodes. While it doesn't use addresses like MAC or IP, it ensures that the physical signals are transmitted correctly.
 
@@ -49,7 +49,7 @@ Layer 2 (Data Link Layer): This layer uses MAC addresses to handle data transfer
 
 Layer 3 (Network Layer): This layer is essential for inter-network communication. It handles logical addressing, packet routing, and forwarding, ensuring data can travel across diverse networks efficiently. Routers and protocols like IP, ICMP, OSPF, BGP, and RIP play crucial roles in enabling these functions, making it possible for devices to communicate over vast and varied network infrastructures.
 
-### Packets and Frames
+## Packets and Frames
 When a device sends a message to another device, the message is encapsulated into frames at the Data Link layer (Layer 2) of the OSI model. These frames contain the MAC addresses necessary for Layer 2 communication. As the frames travel across the network, they are forwarded by switches that operate at this layer. Once the frames reach the destination device, the Layer 2 information is stripped away, and what remains are the packets. These packets contain the logical addressing information (IP addresses) used at the Network layer (Layer 3).
 
 To summarize:
