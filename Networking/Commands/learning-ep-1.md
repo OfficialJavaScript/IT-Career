@@ -4,6 +4,8 @@ All learning from https://www.youtube.com/watch?v=9eH16Fxeb9o
 
 Today (18/05/2024) - Today I learned and issued my first Cisco CLI command.
 
+### Commands
+
 First command I learned for when you have your switch first running is to use 'enable' a little # will appear, for example:
 
 ```
@@ -38,6 +40,25 @@ Vlan    Mac Address       Type        Ports
    1    00d0.9752.8936    DYNAMIC     Fa0/2
    1    00e0.b059.0a97    DYNAMIC     Fa0/1
 ```
+
+### Layers:
+
+Layer 1 (Physical Layer): This layer deals with the physical aspects of network communication, including the hardware used for transmitting and receiving data. It includes connectors, cables, switches, and hubs. The primary focus is on bit-level transmission between network nodes. While it doesn't use addresses like MAC or IP, it ensures that the physical signals are transmitted correctly.
+
+Layer 2 (Data Link Layer): This layer uses MAC addresses to handle data transfer between devices on the same network. It ensures error-free transmission between devices and manages physical addressing through the use of MAC addresses.
+
+Layer 3 (Network Layer): This layer is essential for inter-network communication. It handles logical addressing, packet routing, and forwarding, ensuring data can travel across diverse networks efficiently. Routers and protocols like IP, ICMP, OSPF, BGP, and RIP play crucial roles in enabling these functions, making it possible for devices to communicate over vast and varied network infrastructures.
+
+### Packets and Frames
+When a device sends a message to another device, the message is encapsulated into frames at the Data Link layer (Layer 2) of the OSI model. These frames contain the MAC addresses necessary for Layer 2 communication. As the frames travel across the network, they are forwarded by switches that operate at this layer. Once the frames reach the destination device, the Layer 2 information is stripped away, and what remains are the packets. These packets contain the logical addressing information (IP addresses) used at the Network layer (Layer 3).
+
+To summarize:
+
+* Sending Device: Encapsulates the message into frames (Layer 2) for transmission over the network.
+* Network Transmission: Frames are forwarded by switches based on MAC addresses.
+* Destination Device: Frames are decapsulated to reveal the packets (Layer 3), which contain IP addresses for further processing.
+
+This process ensures that data is correctly transmitted and routed through the network, transitioning from frames at Layer 2 to packets at Layer 3.
 
 ## Questions
 ### Which of the following addresses will a switch use to populate a CAM table? (Select the best answer.)
