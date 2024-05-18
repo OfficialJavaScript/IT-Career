@@ -2,6 +2,8 @@
 
 All learning from https://www.youtube.com/watch?v=9eH16Fxeb9o
 
+Today (18/05/2024) - Today I learned and issued my first Cisco CLI command.
+
 First command I learned for when you have your switch first running is to use 'enable' a little # will appear, for example:
 
 ```
